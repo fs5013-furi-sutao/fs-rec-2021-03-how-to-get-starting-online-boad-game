@@ -43,4 +43,4 @@ https://ja.boardgamearena.com/welcome
 ### 3. その他
 
 ご不明点等ございましたら、
-人事部の奥原の個人LINE宛にご連絡ください。
+人事部の奥原の個人 LINE 宛にご連絡ください。
