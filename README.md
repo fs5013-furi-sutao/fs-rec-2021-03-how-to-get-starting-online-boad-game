@@ -9,7 +9,7 @@
 まずは『ボードゲームアリーナ』というサイトでアカウントの作成を行っていただきます。
 下記のURLからサイトへアクセスしてください。
 
-オンラインでボードゲームを遊ぼう! ・ Board Game Arena
+オンラインでボードゲームを遊ぼう! ・ Board Game Arena  
 https://ja.boardgamearena.com/welcome
 
 #### 1-2. アカウント登録
